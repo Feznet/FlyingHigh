@@ -72,10 +72,34 @@
             }
         },
         {
+            "Key": "191bd037-7bc2-493d-b74c-bdd6ed36bd54",
+            "Value": {
+                "id": "ef4da431-52cc-4581-b479-45e43fda8403",
+                "resourcePath": "sprites\\sBeach\\sBeach.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "2121aa85-85f4-4a38-b9a4-cb95235403a3",
+            "Value": {
+                "id": "0c55b961-7498-498c-817e-ef1ba2ebf8dd",
+                "resourcePath": "objects\\oBeach2\\oBeach2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "24da03b2-4171-4a2a-93b1-406f7dad5844",
             "Value": {
                 "id": "afcac149-cbc2-4d54-a11e-e03199566e7a",
                 "resourcePath": "sprites\\sBird\\sBird.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "292e5369-25c6-4426-967b-ade93b9e4672",
+            "Value": {
+                "id": "c0f53627-e41f-4b80-bb82-631248ed27c3",
+                "resourcePath": "sprites\\sPowerUp\\sPowerUp.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -92,6 +116,14 @@
             "Value": {
                 "id": "f3bcf00d-befa-4755-85e9-55137141ac3a",
                 "resourcePath": "objects\\oBird\\oBird.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "44fe785b-e675-40e6-be3e-f5f6b7a18e9e",
+            "Value": {
+                "id": "6bc0ada4-3107-437f-ae7a-18ddc299f433",
+                "resourcePath": "objects\\oPowerUp\\oPowerUp.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -309,14 +341,6 @@
                 "id": "7f27e2ff-8dfa-4839-a80f-aead96f2e9de",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "d95d1f6a-13a4-46af-8edf-600d8efad596",
-            "Value": {
-                "id": "1492b0bd-8ba6-4f60-a646-ccd9e255cfb3",
-                "resourcePath": "sprites\\sBeach\\sBeach.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
