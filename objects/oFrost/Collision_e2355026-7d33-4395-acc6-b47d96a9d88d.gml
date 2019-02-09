@@ -1,2 +1,2 @@
-oBird.numLives--;
+oLives.numLives--;
 oBird.y -= 500;

@@ -1,0 +1,1 @@
+numLives = 3;

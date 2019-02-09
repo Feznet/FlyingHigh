@@ -152,6 +152,14 @@
             }
         },
         {
+            "Key": "81624d38-d2ac-4067-8b22-3168dde27ad0",
+            "Value": {
+                "id": "4cba853b-512b-482b-b6d3-0a437f57a172",
+                "resourcePath": "sprites\\sBird1\\sBird1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "876b47f3-d244-45eb-ad2e-cd0315841a09",
             "Value": {
                 "id": "91c6d433-bf7a-4873-8d1a-132dad0848d4",
@@ -284,6 +292,14 @@
             "Value": {
                 "id": "2d06e248-b897-4860-89eb-b8fec1651fbc",
                 "resourcePath": "objects\\oLives\\oLives.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "cbf85970-c973-4ed2-bd5c-3ef13a0b0210",
+            "Value": {
+                "id": "5dda0fbd-9e25-48cb-8225-617d76ee524e",
+                "resourcePath": "objects\\oGodBird\\oGodBird.yy",
                 "resourceType": "GMObject"
             }
         },
