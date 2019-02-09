@@ -1,2 +1,6 @@
 /// @description: Basic movement and collision detection
-scriptControls();
+if (oBird.numLives <= 0)
+{
+	game_end();
+}
+script_execute(scriptControls());

@@ -2,4 +2,3 @@
 startingHealth = 100;
 scoreValue = 0;
 numLives = 3;
-

@@ -64,11 +64,11 @@
             }
         },
         {
-            "Key": "222055e7-2cf4-477a-a61d-df4a2df895d4",
+            "Key": "179be360-a9dd-44ad-9159-364ce051a593",
             "Value": {
-                "id": "ab9a14c1-7a87-42ff-b0c6-9884b0e2d23c",
-                "resourcePath": "scripts\\scriptDrawScore\\scriptDrawScore.yy",
-                "resourceType": "GMScript"
+                "id": "db9e7e20-4356-4ce3-8156-7e7dda61ba49",
+                "resourcePath": "objects\\oBeach\\oBeach.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -92,6 +92,14 @@
             "Value": {
                 "id": "f3bcf00d-befa-4755-85e9-55137141ac3a",
                 "resourcePath": "objects\\oBird\\oBird.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "46b74e6a-356c-4152-8f14-1ae5f97a61e3",
+            "Value": {
+                "id": "927cd497-7a21-432f-a861-50c37be01e00",
+                "resourcePath": "objects\\oFrost\\oFrost.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -120,6 +128,14 @@
             }
         },
         {
+            "Key": "759aaa11-1387-4cde-935f-5608175e179a",
+            "Value": {
+                "id": "bf93091e-985b-4193-8c99-ea31f1658d4a",
+                "resourcePath": "sprites\\sObstacle\\sObstacle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7b870635-ad38-4472-90eb-c0290491c6db",
             "Value": {
                 "id": "3f06048b-290c-455d-a5eb-d671e29cb948",
@@ -141,6 +157,14 @@
                 "id": "91c6d433-bf7a-4873-8d1a-132dad0848d4",
                 "resourcePath": "sprites\\sOcean\\sOcean.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89671c07-7072-461a-9c0a-d6f40e3be6dd",
+            "Value": {
+                "id": "261f3482-eb76-4fb5-b5ee-3003ad1a8ccb",
+                "resourcePath": "scripts\\scriptCollision\\scriptCollision.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -168,6 +192,14 @@
             }
         },
         {
+            "Key": "96b840f0-86e7-4413-8883-3c5df4f9ab3b",
+            "Value": {
+                "id": "5b09ae64-b344-4ec2-b9c2-cd7e4277bb3e",
+                "resourcePath": "sprites\\sFrost\\sFrost.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "96dbb643-58d7-463b-8f6c-aa3e8a6c0a5b",
             "Value": {
                 "id": "6435bd92-a7c2-46d9-adc7-511d8bb92940",
@@ -192,11 +224,27 @@
             }
         },
         {
+            "Key": "9a87ad9d-5dd9-4eb2-91ef-2295ef6bc5e2",
+            "Value": {
+                "id": "17760a90-c164-4486-a5de-ef374dd00473",
+                "resourcePath": "objects\\oScrollObject\\oScrollObject.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a1153ac0-9c9c-4d27-bc27-6fc06e8cc2af",
             "Value": {
                 "id": "daa381bf-4d19-4325-bcac-a048905bd866",
                 "resourcePath": "sprites\\sLife\\sLife.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "af44a0d8-7b49-44d9-8963-ea2cdbfc72f8",
+            "Value": {
+                "id": "d668472a-7b7f-4e9f-9dab-4870815a2567",
+                "resourcePath": "objects\\oObstacle\\oObstacle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -240,19 +288,19 @@
             }
         },
         {
-            "Key": "caada149-5ad0-4e14-8d10-14a781c9fb5d",
-            "Value": {
-                "id": "59908147-a792-40e5-9731-14b48b60be6a",
-                "resourcePath": "scripts\\scriptDrawLives\\scriptDrawLives.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "7f27e2ff-8dfa-4839-a80f-aead96f2e9de",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "d95d1f6a-13a4-46af-8edf-600d8efad596",
+            "Value": {
+                "id": "1492b0bd-8ba6-4f60-a646-ccd9e255cfb3",
+                "resourcePath": "sprites\\sBeach\\sBeach.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -281,9 +329,8 @@
         }
     ],
     "script_order": [
-        "caada149-5ad0-4e14-8d10-14a781c9fb5d",
-        "222055e7-2cf4-477a-a61d-df4a2df895d4",
-        "8da30e00-2824-45e1-b515-4ef7806efc3e"
+        "8da30e00-2824-45e1-b515-4ef7806efc3e",
+        "89671c07-7072-461a-9c0a-d6f40e3be6dd"
     ],
     "tutorial": ""
 }

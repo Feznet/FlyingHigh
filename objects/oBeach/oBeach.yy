@@ -1,28 +1,18 @@
 {
-    "id": "e4c523a6-3870-4786-b34c-cd140f5f82ee",
+    "id": "179be360-a9dd-44ad-9159-364ce051a593",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "oLife",
+    "name": "oBeach",
     "eventList": [
         {
-            "id": "2826813d-d50f-4455-9710-54b01dbdb752",
+            "id": "8b39af25-8fc5-466b-b974-36f381c06a08",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "collisionObjectId": "3786d989-be18-4081-809c-a11d05606c8c",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e4c523a6-3870-4786-b34c-cd140f5f82ee"
-        },
-        {
-            "id": "041049cf-c1ec-48a8-b170-7f181790b162",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "e4c523a6-3870-4786-b34c-cd140f5f82ee"
+            "eventtype": 4,
+            "m_owner": "179be360-a9dd-44ad-9159-364ce051a593"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "a1153ac0-9c9c-4d27-bc27-6fc06e8cc2af",
+    "spriteId": "d95d1f6a-13a4-46af-8edf-600d8efad596",
     "visible": true
 }

@@ -1,0 +1,1 @@
+oLife.y -= oLife.movementSpeed;

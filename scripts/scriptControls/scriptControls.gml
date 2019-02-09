@@ -1,9 +1,9 @@
-speedVal = 4;
+speedVal = 6;
 
 // Basic controls
 if (!keyboard_check(ord("W")) and !keyboard_check(ord("A")) 
     and !keyboard_check(ord("S")) and !keyboard_check(ord("D"))) {
-	y += speedVal / 2;
+	y += 0.25;
 }
 else {
 	if (keyboard_check(ord("A")))
