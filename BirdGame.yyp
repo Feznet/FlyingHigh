@@ -344,6 +344,14 @@
             }
         },
         {
+            "Key": "d19a827c-445a-44ec-bd28-d2caf6deeb5f",
+            "Value": {
+                "id": "bcf1d573-b5e7-4199-9ce2-ca210242d8cf",
+                "resourcePath": "rooms\\rForest\\rForest.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "dbcb4646-1cb6-4412-a72d-c1b49f4845b3",
             "Value": {
                 "id": "081e2bd0-aedf-40b4-a7e6-ddf8fba500b9",
