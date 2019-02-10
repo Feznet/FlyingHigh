@@ -4,16 +4,7 @@
     "mvc": "1.0",
     "name": "oBeach2",
     "eventList": [
-        {
-            "id": "1fd3573c-e673-47a8-a8f4-e0ac5832f521",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "3786d989-be18-4081-809c-a11d05606c8c",
-            "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "2121aa85-85f4-4a38-b9a4-cb95235403a3"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

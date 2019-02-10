@@ -5,16 +5,6 @@
     "name": "oBird",
     "eventList": [
         {
-            "id": "e1d9f74a-ed36-4918-9c6a-4c97c803f813",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3786d989-be18-4081-809c-a11d05606c8c"
-        },
-        {
             "id": "9d74e7f8-159d-4537-af93-4c808d7568f1",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -40,6 +30,16 @@
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "46b74e6a-356c-4152-8f14-1ae5f97a61e3",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "3786d989-be18-4081-809c-a11d05606c8c"
+        },
+        {
+            "id": "2e30f0b1-42fc-414b-aff5-9c7a1f1ab0ec",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "2121aa85-85f4-4a38-b9a4-cb95235403a3",
             "enumb": 0,
             "eventtype": 4,
             "m_owner": "3786d989-be18-4081-809c-a11d05606c8c"
