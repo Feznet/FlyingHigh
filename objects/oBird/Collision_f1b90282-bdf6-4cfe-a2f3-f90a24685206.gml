@@ -1,0 +1,1 @@
+oScore.scoreValue--;
